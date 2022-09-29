@@ -1,13 +1,7 @@
 <resources>
-    <string name="app_name">p57s2120222hmrm</string>
+    <string name="app_name">p5y67s2120222hmrm</string>
     <string name="escuela">Tecnologico de Estudios Superiores del Oriente del Estado de Mexico</string>
-    <string name="nombre">Ramirez Martinez Hector Mauricio</string>
-    <string name="materia">Introduccion de dispositivos moviles</string>
+    <string name="nombre">Ramírez Martínez Héctor Mauricio</string>
+    <string name="materia">Introducción a dispositivos móviles</string>
     <string name="tituloprincipal">Menu de opciones</string>
-    <string name="txtnum1">Ingresa el primer numero</string>
-    <string name="txtnum2">Ingresa el segundo numero</string>
-    <string name="place1">Ejemplo: 1</string>
-    <string name="place2">Ejemplo: 2</string>
-    <string name="resultado">Resultado</string>
-    <string name="regresar">Regresar</string>
 </resources>
